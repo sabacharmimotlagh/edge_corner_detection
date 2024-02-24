@@ -9,7 +9,7 @@ This repository contains code and resources related to Canny edge detection, a p
 - Comprehensive documentation and explanations of the Canny edge detection process
 
 ## Usage
-The Canny edge detection algorithm is implemented in the `canny_edge_detection.py` file. You can use this file directly in your own projects or import it as a module.  Additionally, I've provide example scripts in the `canny_edge_detection.ipynb` file to demonstrate how to use the Canny edge detector on images.
+The Canny edge detection algorithm is implemented in the `canny_edge_detection.py` file. You can use this file directly in your own projects or import it as a module.  Additionally, I've provided example scripts in the `canny_edge_detection.ipynb` file to demonstrate how to use the Canny edge detector on images.
 
 ## Example
 **Original Image**
