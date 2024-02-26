@@ -14,8 +14,8 @@ The Canny edge detection algorithm is implemented in the `canny_edge_detection.p
 ## Example
 **Original Image**
 
-![Original Image](original_image.png)
+![Original Image](Images/original_image.png)
 
 **Image containing edges**
 
-![Edge Image](edge_image.png)
+![Edge Image](Images/edge_image.png)
