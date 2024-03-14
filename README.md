@@ -19,3 +19,5 @@ The Canny edge detection algorithm is implemented in the `canny_edge_detection.p
 **Image containing edges**
 
 ![Edge Image](Images/edge_image.png)
+
+# Harris Corner Detection
