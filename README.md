@@ -1,4 +1,4 @@
-# Canny edge detection
+# Canny Edge Detection
 
 ## Introduction
 This repository contains code and resources related to Canny edge detection, a popular image processing technique used for detecting edges in images. The Canny edge detector is widely used in computer vision and image processing applications due to its effectiveness and robustness.
