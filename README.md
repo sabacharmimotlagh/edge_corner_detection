@@ -21,3 +21,23 @@ The Canny edge detection algorithm is implemented in the `canny_edge_detection.p
 ![Edge Image](Images/edge_image.png)
 
 # Harris Corner Detection
+
+## Introduction
+This repository contains code and resources related to Harris corner detection, a popular image processing technique used for detecting corners in images. The Harris corner detector is widely used in computer vision and image processing applications due to its effectiveness and robustness.
+
+## Features
+- Implementation of the Harris corner detection algorithm in Python
+- Example scripts demonstrating how to use the Harris corner detector on images
+- Comprehensive documentation and explanations of the Harris corner detection process
+
+## Usage
+The Harris corner detection algorithm is implemented in the `harris_corner_detection.py` file. You can use this file directly in your own projects or import it as a module.  Additionally, I've provided example scripts in the `harris_corner_detection.ipynb` file to demonstrate how to use the Harris corner detector on images.
+
+## Example
+**Original Image**
+
+![Original Image](Images/original_image.png)
+
+**Image containing corners**
+
+![Corner Image](Images/corner_image.png)
